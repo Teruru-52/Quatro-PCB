@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1963AES3-3.3
+F https://akizukidenshi.com/download/ds/analog/lt1963a.pdf
+$ENDCMP
+#
+$CMP MPU-6500
+K IMU
+F https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6500-datasheet2.pdf
+$ENDCMP
+#
+#End Doc Library
